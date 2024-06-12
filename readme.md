@@ -1,6 +1,6 @@
 # Шпаргалка по GIT и GITHUB
 
-#### HEAD
+#### HEAD 
 Один из служебных файлов папки .git. Он указывает на коммит, который сделан последним (то есть на самый новый).
 #### COMMIT
 ![image info](https://pictures.s3.yandex.net/resources/M2_T5_02_1685969923.png)
