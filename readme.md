@@ -8,7 +8,7 @@ HEAD -- это голова.
 ```mermaid
 	graph LR;
 	modified -- "git add" --> staged -- "git commit" --> tracked;
-
+	untracked -- "git add" --> staged;
 ```
 
 
